@@ -23,7 +23,7 @@ button {
 nav,
 footer {
     background: #1F2937;
-    height: 75px;
+    height: 80px;
 }
 
 nav {
@@ -70,13 +70,13 @@ li a:hover {
 /* Home Styles */
 #home {
     background: #1F2937;
-    height: 450px;
+    height: 410px;
     width: 100%;
 }
 
 .home {
     margin: 0 160px;
-    padding-top: 80px;
+    padding: 80px 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
